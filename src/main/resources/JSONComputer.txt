@@ -1,0 +1,60 @@
+Estos son los JSON para el POST
+
+{
+    
+    "brand": "HP",
+    "memory": 8,
+    "process": "Intel Core i5",
+    "operatingSystem": "Windows 11",
+    "price": 899.99,
+    "shop": {
+      "id": 1
+    }
+  }
+
+  {
+    
+    "brand": "Lenovo",
+    "memory": 16,
+    "process": "AMD Ryzen 7",
+    "operatingSystem": "Ubuntu 20.04",
+    "price": 1100.5,
+    "shop": {
+      "id": 1
+    }
+  }
+
+  {
+    
+    "brand": "Dell",
+    "memory": 8,
+    "process": "AMD Ryzen 7",
+    "operatingSystem": "Ubuntu 20.04",
+    "price": 1170.5,
+    "shop": {
+      "id": 1
+    }
+  }
+
+  {
+   
+    "brand": "HP",
+    "memory": 16,
+    "process": "Intel Core i6",
+    "operatingSystem": "Windows 11",
+    "price": 999.5,
+    "shop": {
+      "id": 1
+    }
+  }
+
+
+
+
+
+ 
+
+
+
+  
+
