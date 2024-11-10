@@ -30,7 +30,8 @@ API REST para la gestión de ordenadores de una tienda en una aplicación de inv
    
 3.  **Configurar la Base de Datos**:
    
-   El proyecto está configurado para usar una base de datos en memoria H2 por defecto. Puedes cambiar esto en el archivo **application.properties** si deseas usar una base de datos relacional como MySQL.
+   El proyecto está configurado para usar una base de datos en memoria H2 por defecto. 
+   Puedes cambiar esto en el archivo **application.properties** si deseas usar una base de datos relacional como MySQL.
 
 4. **Compilar y Ejecutar el Proyecto**:
 
