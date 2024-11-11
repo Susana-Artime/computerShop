@@ -43,9 +43,17 @@ API REST para la gestión de ordenadores de una tienda en una aplicación de inv
 
 Despues de lanzar la aplicacion, se puede consultar la documentacion interactiva de Swagger en este enlace http://localhost:8080/swagger-ui.html
 
-Para hacer el POST del objeto Computer, se puede utilizar este documento:[Ver documento en recursos](src/main/resources/JSONComputer.txt)
-
 Además se puede ver la informacion de la base de datos en memoria en la consola de H2 http://localhost:8080/h2-console/
+
+Tabla Shop con el registro de la tienda
+
+![Tabla de Shop](src/main/resources/tablaShop.jpg)
+
+Tabla de Computer con los ordenadores una vez hecha la solicitud del POST de cada JSON
+Para hacer el POST del objeto Computer, se puede utilizar este documento:
+[JSON para POST](src/main/resources/JSONComputer.txt)
+
+![Tabla de Computer](src/main/resources/tablaComputer.jpg)
 
 
 ## Estructura del Proyecto
